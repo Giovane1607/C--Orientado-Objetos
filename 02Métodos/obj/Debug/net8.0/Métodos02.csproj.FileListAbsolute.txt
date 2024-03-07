@@ -1,0 +1,14 @@
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\obj\Debug\net8.0\Métodos02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\obj\Debug\net8.0\Métodos02.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\obj\Debug\net8.0\Métodos02.AssemblyInfo.cs
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\obj\Debug\net8.0\Métodos02.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\bin\Debug\net8.0\Métodos02.exe
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\bin\Debug\net8.0\Métodos02.deps.json
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\bin\Debug\net8.0\Métodos02.runtimeconfig.json
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\bin\Debug\net8.0\Métodos02.dll
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\bin\Debug\net8.0\Métodos02.pdb
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\obj\Debug\net8.0\Métodos02.dll
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\obj\Debug\net8.0\refint\Métodos02.dll
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\obj\Debug\net8.0\Métodos02.pdb
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\obj\Debug\net8.0\Métodos02.genruntimeconfig.cache
+C:\Users\giova\Desktop\Orientação a Objetos\Métodos02\obj\Debug\net8.0\ref\Métodos02.dll

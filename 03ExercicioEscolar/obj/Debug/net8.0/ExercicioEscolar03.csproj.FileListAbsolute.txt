@@ -1,0 +1,14 @@
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\bin\Debug\net8.0\ExercicioEscolar03.exe
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\bin\Debug\net8.0\ExercicioEscolar03.deps.json
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\bin\Debug\net8.0\ExercicioEscolar03.runtimeconfig.json
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\bin\Debug\net8.0\ExercicioEscolar03.dll
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\bin\Debug\net8.0\ExercicioEscolar03.pdb
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\obj\Debug\net8.0\ExercicioEscolar03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\obj\Debug\net8.0\ExercicioEscolar03.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\obj\Debug\net8.0\ExercicioEscolar03.AssemblyInfo.cs
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\obj\Debug\net8.0\ExercicioEscolar03.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\obj\Debug\net8.0\ExercicioEscolar03.dll
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\obj\Debug\net8.0\refint\ExercicioEscolar03.dll
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\obj\Debug\net8.0\ExercicioEscolar03.pdb
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\obj\Debug\net8.0\ExercicioEscolar03.genruntimeconfig.cache
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioEscolar03\obj\Debug\net8.0\ref\ExercicioEscolar03.dll

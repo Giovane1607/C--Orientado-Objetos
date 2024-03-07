@@ -1,0 +1,14 @@
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.AssemblyInfo.cs
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\bin\Debug\net8.0\06Encapsulamento.exe
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\bin\Debug\net8.0\06Encapsulamento.deps.json
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\bin\Debug\net8.0\06Encapsulamento.runtimeconfig.json
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\bin\Debug\net8.0\06Encapsulamento.dll
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\bin\Debug\net8.0\06Encapsulamento.pdb
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.dll
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\obj\Debug\net8.0\refint\06Encapsulamento.dll
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.pdb
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.genruntimeconfig.cache
+C:\Users\giova\Desktop\Orientação a Objetos\06Encapsulamento\obj\Debug\net8.0\ref\06Encapsulamento.dll

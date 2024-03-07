@@ -1,0 +1,14 @@
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\obj\Debug\net8.0\ExercicioIMC04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\obj\Debug\net8.0\ExercicioIMC04.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\obj\Debug\net8.0\ExercicioIMC04.AssemblyInfo.cs
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\obj\Debug\net8.0\ExercicioIMC04.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\bin\Debug\net8.0\ExercicioIMC04.exe
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\bin\Debug\net8.0\ExercicioIMC04.deps.json
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\bin\Debug\net8.0\ExercicioIMC04.runtimeconfig.json
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\bin\Debug\net8.0\ExercicioIMC04.dll
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\bin\Debug\net8.0\ExercicioIMC04.pdb
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\obj\Debug\net8.0\ExercicioIMC04.dll
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\obj\Debug\net8.0\refint\ExercicioIMC04.dll
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\obj\Debug\net8.0\ExercicioIMC04.pdb
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\obj\Debug\net8.0\ExercicioIMC04.genruntimeconfig.cache
+C:\Users\giova\Desktop\Orientação a Objetos\ExercicioIMC04\obj\Debug\net8.0\ref\ExercicioIMC04.dll
